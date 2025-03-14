@@ -74,7 +74,7 @@ body {
 .side-panel::before {
     content: "";
     position: absolute;
-    width: 64.5rem;
+    width: 62rem;
     height: 9rem;
     background-color: #06B7BB;
     left: -17%;
